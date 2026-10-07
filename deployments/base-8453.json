@@ -1,0 +1,28 @@
+{
+  "network": "base",
+  "chainId": 8453,
+  "contract": "AddonPassV1",
+  "address": "0xc7aE26e865d9cf2Fe239dB37313aAaf4C0b01D0a",
+  "deploymentBlock": 52031887,
+  "deploymentTransactionHash": "0xa18e393b349e8189b3effc61331d9688e595f3e6cbbd8f8d626b521f080f8a17",
+  "constructorArguments": {
+    "usdc": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "initialOwner": "0xA54f5c0476Df0f9a369F6c3c2912A3bdE79a32E0",
+    "treasury": "0xA54f5c0476Df0f9a369F6c3c2912A3bdE79a32E0",
+    "guardian": "0x38e08518aB900C1974cAf7f4776794FE9AFC8b98",
+    "minPlanPrice": 500000,
+    "maxPlanPrice": 10000000000,
+    "maxMonthlyCharges": 12,
+    "maxAnnualCharges": 1
+  },
+  "abi": {
+    "path": "../abi/AddonPassV1.json",
+    "sha256": "3d7c1483e58eed022bbb0bac956c12f5cad40061de59cac345615eb783876d05"
+  },
+  "runtimeBytecode": {
+    "keccak256": "0xe3682bdaa7cbf0415e9a8c42cdff374a919e4e1c94aca27039d746729095cc23"
+  },
+  "explorerUrl": "https://base.blockscout.com/address/0xc7aE26e865d9cf2Fe239dB37313aAaf4C0b01D0a",
+  "sourceVerificationStatus": "verified",
+  "verificationUrl": "https://base.blockscout.com/address/0xc7aE26e865d9cf2Fe239dB37313aAaf4C0b01D0a?tab=contract"
+}
